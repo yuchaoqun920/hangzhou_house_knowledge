@@ -1,7 +1,7 @@
 
 	   杭州房产知识扫盲
 
-clone from: https://github.com/MisssssCathy/hangzhou_house_knowledge.git 
+clone from: https://github.com/MisssssCathy/hangzhou_house_knowledge.git   
 original from: https://github.com/houshanren/hangzhou_house_knowledge.git
 
 *   [一：认识杭州从板块说起](#id-杭州房产-一：认识杭州从板块说起)
